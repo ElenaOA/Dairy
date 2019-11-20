@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Diary</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Ежедневник</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="nav_menu_calendar">Календарь</string>
+    <string name="nav_menu_tracker">Трекер</string>
+    <string name="nav_menu_dream_book">Сонник</string>
+    <string name="nav_menu_results">Итоги дня</string>
+    <string name="nav_menu_statistics">Статистика</string>
+    <string name="nav_menu_settings">Настройки</string>
+
+    <string name="button_year_month">Выбор года и месяца</string>
+    <string name="button_year">Планы на год</string>
+    <string name="button_month">Планы на месяц</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
